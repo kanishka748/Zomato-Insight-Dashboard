@@ -2,9 +2,11 @@
 This Power BI project showcases a Zomato Restaurant Data Analysis Dashboard, built to extract key business insights from restaurant data across multiple Indian cities.
 
 🚀 Project Overview
+
 The goal of this dashboard is to analyze restaurant-level data from Zomato to uncover meaningful patterns and trends that can aid decision-making for restaurant owners, marketers, and food tech companies.
 
 🔍 Features
+
 City-wise Restaurant Distribution
 
 Cuisine Trend Analysis
@@ -18,9 +20,11 @@ Average Cost for Two Comparison by City
 Restaurant Type & Category Breakdown
 
 📁 File Included
+
 Zomato Insight Dashboard.pbit — Power BI Template file for interactive data visualization.
 
 🛠 Tools & Technologies Used
+
 Power BI – for dashboard development and data modeling
 
 DAX – for calculated measures and KPIs
@@ -28,6 +32,7 @@ DAX – for calculated measures and KPIs
 Zomato Dataset – containing restaurant attributes like name, location, rating, cost, votes, etc.
 
 📌 Key Insights
+
 Cities like Delhi NCR, Bangalore, and Mumbai have the highest restaurant density.
 
 North Indian and Chinese cuisines are among the most popular.
@@ -37,6 +42,7 @@ Online delivery is preferred in metropolitan areas, while dine-in dominates tier
 Higher ratings often correlate with increased number of votes and cost per meal.
 
 📚 Learning Outcomes
+
 Built custom visuals using Power BI
 
 Applied DAX for calculated metrics
