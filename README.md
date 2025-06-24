@@ -53,3 +53,4 @@ Load the Zomato Insight Dashboard.pbit file
 Connect or load your version of the Zomato dataset (CSV or SQL)
 
 Refresh and explore the insights!
+How Dashboard looks like : https://github.com/kanishka748/Zomato-Insight-Dashboard/blob/main/Zomato%20Dashboard%20Insight%20png.png
